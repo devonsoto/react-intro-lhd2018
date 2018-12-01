@@ -1,7 +1,7 @@
 {
-  "name": "spectacle-boilerplate",
+  "name": "react-intro-lhd2018",
   "version": "1.0.1",
-  "description": "ReactJS Powered Presentation Framework",
+  "description": "Local Hack Day 2018 - Presentation",
   "main": "lib/index.js",
   "scripts": {
     "clean": "rimraf dist",
